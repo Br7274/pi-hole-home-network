@@ -12,7 +12,7 @@ SETUP OVERVIEW
 - Installed Raspberry Pi OS Lite
 - Enabled SSH + Wi-Fi at boot
 - Installed Pi-hole with default settings
-- Configured static IP: 192.168.1.197
+- Configured static IP
 - Disabled DHCP on Fios router
 - Enabled DHCP on Pi-hole
 
